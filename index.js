@@ -20,6 +20,9 @@ var utils = {
             cb();
         });
     },
+    mount: function(connect, dir) {
+        return connect.static(path.resolve(dir));
+    },
     minify: function(file, dest) {
         return new Promise(function(resolve, reject) {
             gulp.src(file)
