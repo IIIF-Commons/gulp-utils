@@ -1,0 +1,27 @@
+{
+  "name": "gulp-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsilv/gulp-utils.git"
+  },
+  "author": "Edward Silverton <e.silverton@gmail.com> (http://edsilv.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edsilv/gulp-utils/issues"
+  },
+  "homepage": "https://github.com/edsilv/gulp-utils#readme",
+  "dependencies": {
+    "browserify": "^13.0.1",
+    "gulp-insert": "^0.5.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "path": "^0.12.7",
+    "through2": "^2.0.1"
+  }
+}
