@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edsilv/gulp-utils.git"
+    "url": "git+https://github.com/viewdir/gulp-utils.git"
   },
   "author": "Edward Silverton <e.silverton@gmail.com> (http://edsilv.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/edsilv/gulp-utils/issues"
+    "url": "https://github.com/viewdir/gulp-utils/issues"
   },
-  "homepage": "https://github.com/edsilv/gulp-utils#readme",
+  "homepage": "https://github.com/viewdir/gulp-utils#readme",
   "dependencies": {
     "browserify": "^13.0.1",
     "gulp-insert": "^0.5.0",
